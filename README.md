@@ -1,4 +1,4 @@
-# Train NN to acieve
+# Train NN to achieve
 1. 99.4% validation accuracy  
 2. Less than 20k Parameters  
 3. Less than 20 Epochs  
