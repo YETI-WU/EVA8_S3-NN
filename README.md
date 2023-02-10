@@ -8,7 +8,8 @@ The data is from the MNIST dataset, handwritten digit database.
 ![](images/batch32_MNIST.png)  
 
 To achieve above task, here is the architecture and number of parameters.
-![](images/01. architecture and parameters.png) 
+![](images/01_architecture_and_parameters
+.png) 
 
 The log of training.
-![](images/02. training log.png) 
+![](images/02_training_log.png) 
