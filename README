@@ -5,7 +5,7 @@
 4. Have used BN, Dropout, a Fully connected layer, have used GAP. 
 
 The data is from the MNIST dataset, handwritten digit database.
-![](images/batch32_MNIST.png) 
+![](images/imagesbatch32_MNIST.png)  
 
 To achieve above task, here is the architecture and number of parameters.
 ![](images/01. architecture and parameters.png) 
